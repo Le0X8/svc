@@ -5,7 +5,7 @@
 <nav class="bg-slate-800 fixed w-full h-12 text-white top-0 left-0 flex">
 	<a href="/" class="flex flex-col p-2 items-center justify-center">
     <h1 class="text-2xl leading-4">svc</h1>
-	  <h2 class="text-xs leading-6">by @Le0X8</h2>
+	  <h2 class="text-xs leading-6">by Leonard Lesinski</h2>
   </a>
 </nav>
 
